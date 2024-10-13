@@ -1,2 +1,2 @@
 # frappe
-This repo contians many frappe tricks, solutions, and features
+This repo contians many frappe tricks, solutions, and features.
